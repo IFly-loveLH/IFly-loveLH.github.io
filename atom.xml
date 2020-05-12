@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ifly-lovelh.github.io/</id>
+    <id>https://IFly-loveLH.github.io/</id>
     <title>Lovelotus&apos; Blog</title>
-    <updated>2020-05-12T08:20:39.280Z</updated>
+    <updated>2020-05-12T08:31:05.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ifly-lovelh.github.io/"/>
-    <link rel="self" href="https://ifly-lovelh.github.io/atom.xml"/>
-    <logo>https://ifly-lovelh.github.io/images/avatar.png</logo>
-    <icon>https://ifly-lovelh.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://IFly-loveLH.github.io/"/>
+    <link rel="self" href="https://IFly-loveLH.github.io/atom.xml"/>
+    <logo>https://IFly-loveLH.github.io/images/avatar.png</logo>
+    <icon>https://IFly-loveLH.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lovelotus&apos; Blog</rights>
     <entry>
         <title type="html"><![CDATA[Sum of Large Numbers题解]]></title>
-        <id>https://ifly-lovelh.github.io/post/sum-of-large-numbers-ti-jie/</id>
-        <link href="https://ifly-lovelh.github.io/post/sum-of-large-numbers-ti-jie/">
+        <id>https://IFly-loveLH.github.io/post/sum-of-large-numbers-ti-jie/</id>
+        <link href="https://IFly-loveLH.github.io/post/sum-of-large-numbers-ti-jie/">
         </link>
         <updated>2020-05-11T13:53:47.000Z</updated>
         <content type="html"><![CDATA[<h1 id="sum-of-large-numbers">Sum of Large Numbers</h1>
